@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: CircleChannel
   i18n: circle
-  gh_user: KHS
-  repo: Jalpc
+  gh_user: kimhyunseok
+  repo:KHS_Github
   img: /static/assets/img/landing/jekyll.png
   desc: 테스스
 
