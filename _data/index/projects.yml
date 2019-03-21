@@ -6,7 +6,7 @@
   gh_user: kimhyunseok
   repo:KHS_Github
   img: /static/assets/img/landing/jekyll.png
-  desc: 테스스
+  desc: test
 
 - name: Python
   i18n: cpython
