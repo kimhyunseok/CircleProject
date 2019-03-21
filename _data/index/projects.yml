@@ -4,7 +4,7 @@
 - name: CircleChannel
   i18n: circle
   gh_user: kimhyunseok
-  repo:KHS_Github
+  repo: KHS_Github
   img: /static/assets/img/landing/jekyll.png
   desc: test
 
