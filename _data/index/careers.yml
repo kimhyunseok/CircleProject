@@ -42,34 +42,4 @@
     i18n: company_c_job
   icon: fa-plus-square
   
-   - name:
-    detail: "SK고용디딤돌3기-(웹개발과정)"
-    i18n: company_a
-  desc:
-    detail: "Github,협업,Spring등 다시한번 배우게됨"
-    i18n: company_a_desc
-  date:
-    detail: 2016.02
-    i18n: company_a_date
-  job:
-    detail: 교육
-    i18n: company_a_job
-  icon: fa-plus-square
-
- - name:
-    detail: "SK고용디딤돌3기-(주)동그라미소프트"
-    i18n: company_b
-  desc:
-    detail: "넥사크로,오라클,스프링등 사용"
-    i18n: company_b_desc
-  date:
-    detail: 2016.02
-    i18n: company_b_date
-  job:
-    detail: (samsung 프로젝트수행)인턴
-    i18n: company_b_job
-  icon: fa-plus-square
-
-
-
- 
+  
