@@ -15,7 +15,7 @@
   icon:  fa-graduation-cap
 
 - name:
-    detail: "인천재능대학[자바교육]/inflearn 사이트111111111111" 
+    detail: "인천재능대학[자바교육]/inflearn 사이트" 
     i18n: company_b
   desc:
     detail: "스프링개념,mybatis연동,spring-boot,웹스퀘어등 배웠음"
