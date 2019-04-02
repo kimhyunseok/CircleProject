@@ -6,7 +6,7 @@
   gh_user: kimhyunseok
   repo: CircleChannel
   img: /static/assets/img/landing/logo.png
-  desc: test
+  desc: 동아리채널은 사람들이 온라인을 통해서 쉽고 편리하게 모임을 개설하고 만나게 하는 솔루션입니다,
 
 - name: Python
   i18n: cpython
