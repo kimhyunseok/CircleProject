@@ -3,7 +3,7 @@
 # Website settings
 title: KHS_Github
 description: KHS_Github의  github pages.
-keywords: 
+keywords: test
 baseurl:  /KHS_Github # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://kimhyunseok.github.io/KHS_Github # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
