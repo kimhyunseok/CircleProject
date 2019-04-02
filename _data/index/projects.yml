@@ -5,7 +5,7 @@
   i18n: circle
   gh_user: kimhyunseok
   repo: CircleChannel
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/logo.png
   desc: test
 
 - name: Python
