@@ -1,27 +1,27 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: 인천재능대학교[2년제]
+    detail: "인천재능대학교[2년제]"
     i18n: company_a
   desc:
-    detail: [컴퓨터정보과]졸업-html/css,java,jsp,SQL등 배웠음 컴퓨터판매사이트 컴맹pc프로젝트 만듬
+    detail: "[컴퓨터정보과]졸업-html/css,java,jsp,SQL등 배웠음 컴퓨터판매사이트 컴맹pc프로젝트 만듬"
     i18n: company_a_desc
   date:
-    detail: 02. 2016
+    detail: Jun. 2015
     i18n: company_a_date
   job:
-    detail: 학생
+    detail: "학생"
     i18n: company_a_job
   icon: fa fa-graduation-cap
 
 - name:
-    detail: 인천재능대학[자바교육]/inflearn 사이트 
+    detail: "인천재능대학[자바교육]/inflearn 사이트" 
     i18n: company_b
   desc:
-    detail: 스프링개념,mybatis연동,spring-boot등 배웠음
+    detail: "스프링개념,mybatis연동,spring-boot등 배웠음"
     i18n: company_b_desc
   date:
-    detail: 02. 2016
+    detail: Jun. 2015
     i18n: company_b_date
   job:
     detail: Full Stack Developer
