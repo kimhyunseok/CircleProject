@@ -15,13 +15,13 @@
   icon: fa fa-graduation-cap
 
 - name:
-    detail: Company B
+    detail: 인천재능대학[자바교육]/inflearn 사이트 
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 스프링개념,mybatis연동,spring-boot등 배웠음
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 02. 2016
     i18n: company_b_date
   job:
     detail: Full Stack Developer
