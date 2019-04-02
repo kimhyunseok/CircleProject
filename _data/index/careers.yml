@@ -12,7 +12,7 @@
   job:
     detail: "학생"
     i18n: company_a_job
-  icon: fa fa-graduation-cap
+  icon:  fa-graduation-cap
 
 - name:
     detail: "인천재능대학[자바교육]/inflearn 사이트" 
