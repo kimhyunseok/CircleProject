@@ -28,8 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: "안녕하세요 자바웹개발자를 준비하는 개발자입니다 주력 언어로 Java를 하고, 외에는 Spring,html/css,jquery,SQL등을 할 수 있습니다. 중학교에 HTML로 간단한 홈페이지,C언어로 구구단 하는 것으로 프로그래밍에 관심을 가졌고 그 뒤로는 인천재능대학교에서 웹개발자로 거듭나기 위한 기반을 쌓았습니다.더 나아가 제가 배달의민족,토스 같은 앱이나 사이트를 구현하고 싶습니다. "
-
+  desc: 안녕하세요 자바웹개발자를 준비하는 개발자입니다 주력 언어로 Java를 하고, 외에는 Spring,html/css,jquery,SQL등을 할 수 있습니다. 중학교에 HTML로 간단한 홈페이지,C언어로 구구단 하는 것으로 프로그래밍에 관심을 가졌고 그 뒤로는 인천재능대학교에서 웹개발자로 거듭나기 위한 기반을 쌓았습니다.더 나아가 제가 배달의민족,토스 같은 앱이나 사이트를 구현하고 싶습니다.
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: KHS_Github
