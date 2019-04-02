@@ -21,7 +21,7 @@
     detail: "스프링개념,mybatis연동,spring-boot,웹스퀘어등 배웠음"
     i18n: company_b_desc
   date:
-    detail: 2016.02.
+    detail: 2016.02
     i18n: company_b_date
   job:
     detail: 교육
