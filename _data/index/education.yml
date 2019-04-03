@@ -2,16 +2,16 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Company A
+    detail: "인천재능대학교[2년제]-컴퓨터정보과 졸업"
     i18n: education_a
   desc:
-    detail: I worked at Company A ...
+    detail: "html/css,jquery,sql등 배워서 PC쇼핑몰 구현함"
     i18n: education_a_desc
   date:
     detail: Apr. 2016
     i18n: education_a_date
   job:
-    detail: CTO
+    detail:  "교육"
     i18n: education_a_job
   icon: fa-plus-square
 
