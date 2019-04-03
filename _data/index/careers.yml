@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: "인천재능대학교[2년제]-컴퓨터정보과 졸업"
+    detail: "(주)클라우드트리"
     i18n: company_a
   desc:
-    detail: "html/css,jquery,sql등 배워서 PC쇼핑몰 구현함"
+    detail: "PG사연동,그누보드솔루션,JQuery등 처리함"
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 2016.05~2016.11
     i18n: company_a_date
   job:
-    detail: "교육"
+    detail: "php개발자"
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail:  "인천재능대학교[2년제]-컴퓨터정보과 졸업"
+    detail:  "SK고용디딤돌-(주)동그라미소프트[인턴]"
     i18n: company_b
   desc:
-    detail:  "인천재능대학교[2년제]-컴퓨터정보과 졸업"
+    detail:  "오라클,스프링,넥사크로등 사용하고 삼성프로젝트 수행함"
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 2017 05~11
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: [si개발자
     i18n: company_b_job
   icon: fa-plus-square
