@@ -1,0 +1,13 @@
+   - name:
+    detail: "SK고용디딤돌3기-(웹개발과정)"
+    i18n: company_a
+  desc:
+    detail: "Github,협업,Spring등 다시한번 배우게됨"
+    i18n: company_a_desc
+  date:
+    detail: 2016.02
+    i18n: company_a_date
+  job:
+    detail: 교육
+    i18n: company_a_job
+  icon: fa-plus-square
