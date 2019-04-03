@@ -1,3 +1,5 @@
+    # careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
   - name:
     detail: "인천재능대학[자바교육]/inflearn 사이트" 
     i18n: education_a
@@ -25,5 +27,4 @@
     detail: 교육
     i18n: education_b_job
   icon: fa-plus-square
-  
   
