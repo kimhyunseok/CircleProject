@@ -15,10 +15,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail:  "인천재능대학교[2년제]-컴퓨터정보과 졸업"
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail:  "인천재능대학교[2년제]-컴퓨터정보과 졸업"
     i18n: company_b_desc
   date:
     detail: Jun. 2015
