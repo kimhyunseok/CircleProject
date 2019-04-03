@@ -25,7 +25,7 @@
     detail: 2016.03
     i18n: education_b_date
   job:
-    detail: 교육
+    detail: "교육"
     i18n: education_b_job
   icon: fa-plus-square
 
@@ -36,9 +36,9 @@
     detail: "Spring,mybatis,Github,협업등 경험하고 항공리뷰사이트 간단히 구현"
     i18n: education_b_desc
   date:
-    detail: 2017.05~2017.11
+    detail: "2017.05~2017.11"
     i18n: education_b_date
   job:
-    detail: 교육
+    detail: "교육"
     i18n: education_b_job
   icon: fa-plus-square
