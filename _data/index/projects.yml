@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/logo.png
   desc: 동아리채널은 사람들이 온라인을 통해서 쉽고 편리하게 모임을 개설하고 만나게 하는 솔루션입니다,
 
-- name: Python
+- name: "SK고용디딤돌-[항공리뷰]"
   i18n: cpython
   gh_user: python
-  repo: cpython
+  repo: airplane
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: 사람들이 항송리뷰통해 편안히 볼수있는 솔루션
 
 - name: Google
   i18n: google
