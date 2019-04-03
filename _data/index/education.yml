@@ -8,7 +8,7 @@
     detail: "html/css,jquery,sql등 배워서 PC쇼핑몰 구현함"
     i18n: education_a_desc
   date:
-    detail: Apr. 2016
+    detail: 2016.02
     i18n: education_a_date
   job:
     detail:  "교육"
@@ -16,15 +16,29 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail:  "인천재능대학교[자바웹과정],인프런사이트[스프링과정] 수료"
     i18n: education_b
   desc:
-    detail: I worked at Company B ...
+    detail: "Spring,mybatis등 교육받음"
     i18n: education_b_desc
   date:
-    detail: Jun. 2015
+    detail: 2016.03
     i18n: education_b_date
   job:
-    detail: Full Stack Developer
+    detail: 교육
+    i18n: education_b_job
+  icon: fa-plus-square
+
+- name:
+    detail:  "SK고용디딤돌[자바웹과정]"
+    i18n: education_b
+  desc:
+    detail: "Spring,mybatis,Github,협업등 경험하고 항공리뷰사이트 간단히 구현"
+    i18n: education_b_desc
+  date:
+    detail: 2017.05~2017.11
+    i18n: education_b_date
+  job:
+    detail: 교육
     i18n: education_b_job
   icon: fa-plus-square
