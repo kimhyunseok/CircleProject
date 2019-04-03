@@ -7,7 +7,7 @@
     detail: "PG사연동,그누보드솔루션,JQuery등 처리함"
     i18n: company_a_desc
   date:
-    detail: 2016.05~2016.11
+    detail: "2016.05~2016.11"
     i18n: company_a_date
   job:
     detail: "php개발자"
@@ -21,9 +21,9 @@
     detail:  "오라클,스프링,넥사크로등 사용하고 삼성프로젝트 수행함"
     i18n: company_b_desc
   date:
-    detail: 2017 05~11
+    detail: "2017 05~2017.11"
     i18n: company_b_date
   job:
-    detail: [si개발자
+    detail: "si개발자"
     i18n: company_b_job
   icon: fa-plus-square
