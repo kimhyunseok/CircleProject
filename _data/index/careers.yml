@@ -16,14 +16,14 @@
 
 - name:
     detail:  "SK고용디딤돌-(주)동그라미소프트[인턴]"
-    i18n: company_b
+    i18n: company_a
   desc:
     detail:  "오라클,스프링,넥사크로등 사용하고 삼성프로젝트 수행함"
-    i18n: company_b_desc
+    i18n: company_a_desc
   date:
     detail: "2017 05~2017.11"
-    i18n: company_b_date
+    i18n: company_a_date
   job:
     detail: "si개발자"
-    i18n: company_b_job
+    i18n: company_a_job
   icon: fa-plus-square
