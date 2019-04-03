@@ -4,7 +4,7 @@
     detail: "인천재능대학교[2년제]-컴퓨터정보과 졸업"
     i18n: company_a
   desc:
-    detail:"html/css,jquery,sql등 배워서 PC쇼핑몰 구현함"
+    detail: "html/css,jquery,sql등 배워서 PC쇼핑몰 구현함"
     i18n: company_a_desc
   date:
     detail: Apr. 2016
